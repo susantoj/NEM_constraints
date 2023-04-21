@@ -9,6 +9,8 @@ Python functions for wrangling public NEMDE constraint equation formulations:
 - **find_generic_RHS_func**: find a generic RHS function definition from the archive
 - **get_generic_RHS_func**: get the terms for a generic RHS function
 
+The [Jupyter notebook here](https://github.com/susantoj/NEM_constraints/blob/main/NEMDE_constraints_demo.ipynb) provides a illustrative demonstration of how the functions can be used.
+
 ## More Information
 AEMO provides a lot of reference information on constraints, including the following:
 
